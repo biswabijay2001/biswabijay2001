@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Biswabijay Dhal</h1>
 <h3 align="center">A passionate data analyst and model trainer from India</h3>
 
-<img align="right"alt="coding"width="200"src="![image](https://github.com/biswabijay2001/biswabijay2001/assets/108553627/b235aba3-15e9-4318-8806-cf816c178f4e)
+<img align="right"alt="coding"width="200"src="![gif](https://github.com/biswabijay2001/biswabijay2001/assets/108553627/b0869066-791a-4efb-bb2a-fd8b008d4b98)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswabijay2001&label=Profile%20views&color=0e75b6&style=flat" alt="biswabijay2001" /> </p>
