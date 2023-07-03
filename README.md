@@ -1,4 +1,4 @@
-![logo](https://github.com/biswabijay2001/biswabijay2001/blob/main/Github%20Banner.png)
+![logo](https://github.com/biswabijay2001/biswabijay2001/blob/main/Github%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Biswabijay Dhal</h1>
 <h3 align="center">A passionate data analyst and model trainer from India</h3>
 
