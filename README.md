@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Biswabijay Dhal</h1>
 <h3 align="center">A passionate data analyst and model trainer from India</h3>
 
-<p><img src="![image](https://github.com/biswabijay2001/biswabijay2001/assets/108553627/b0869066-791a-4efb-bb2a-fd8b008d4b98) align="right" alt="coding"width="200" 
-/"></p>
+<p><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="coding" width="400"/"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswabijay2001&label=Profile%20views&color=0e75b6&style=flat" alt="biswabijay2001" /> </p>
 
